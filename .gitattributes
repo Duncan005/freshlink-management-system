@@ -1,0 +1,10 @@
+* text=auto
+*.php text
+*.js text
+*.css text
+*.html text
+*.json text
+*.md text
+*.sql text
+
+README.md linguist-documentation
